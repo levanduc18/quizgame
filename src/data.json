@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "Where is Vietnam?",
+      "answerArray": [
+        { "content": "In Asia", "isAnswer": true },
+        { "content": "In Europe", "isAnswer": false },
+        { "content": "In Africa", "isAnswer": false },
+        { "content": "In America", "isAnswer": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is Vietnam's Capital?",
+      "answerArray": [
+        { "content": "Ho Chi Minh City", "isAnswer": false },
+        { "content": "Hanoi", "isAnswer": true },
+        { "content": "Saigon", "isAnswer": false },
+        { "content": "Hue", "isAnswer": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is the national flower of Vietnam?",
+      "answerArray": [
+        { "content": "Daisy", "isAnswer": false },
+        { "content": "Water lily", "isAnswer": true },
+        { "content": "Lotus flower", "isAnswer": false },
+        { "content": "Cherry Blossom", "isAnswer": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What Year Did the Vietnamese War Start [North and South]?",
+      "answerArray": [
+        { "content": "March 20th 1301 - July 2nd 1333", "isAnswer": false },
+        { "content": "January 3rd 1765 - October 8th 1789", "isAnswer": false },
+        { "content": "November 1st 1955 - April 30th 1975", "isAnswer": true },
+        { "content": "December 25th 1844 - January 5th 1989", "isAnswer": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the National Animal of Vietnam?",
+      "answerArray": [
+        { "content": "Lizard", "isAnswer": false },
+        { "content": "Water Buffalo", "isAnswer": true },
+        { "content": "Dragon", "isAnswer": false },
+        { "content": "Rooster", "isAnswer": false },
+        { "content": "Elk", "isAnswer": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "What is the traditional costume in Vietnam?",
+      "answerArray": [
+        { "content": "Kimono", "isAnswer": false },
+        { "content": "Handbook", "isAnswer": false },
+        { "content": "Ao dai", "isAnswer": true }
+      ]
+    }
+  ]
+  
